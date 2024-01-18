@@ -3,4 +3,3 @@
 - OSIC Pulmonary Fibrosis Progression Top 1%
 - Google Landmark Recognition 2020 Top 2%
 - Lyft Motion Prediction for Autonomous Vehicles Top 8%
-- GoDaddy - Microbusiness Density Forecasting ongoing
